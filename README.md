@@ -1,4 +1,5 @@
 🛍️ E-commerce Product Catalog
+
 📌 Project Overview
 
 This is a simple E-commerce Product Catalog built using HTML, CSS, and JavaScript.
