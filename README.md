@@ -54,8 +54,8 @@ Building a responsive UI with CSS and animations.
 
 Implementing a basic checkout modal popup.
 
-✨ Made with ❤️ by Sabarish Gopal K
-
 🙌 Acknowledgements
 
 This project was developed for the CodeClause Internship under the Web Development domain.
+
+✨ Made with ❤️ by Sabarish Gopal K
